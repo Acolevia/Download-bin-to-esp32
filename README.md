@@ -1,4 +1,4 @@
-# Downlaod bin to esp32
+# Download bin to esp32
 
 * 批量下载 bin 固件到 esp32
 
